@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       157,          7]
-NotebookDataLength[     11816,        298]
-NotebookOptionsPosition[     10892,        265]
-NotebookOutlinePosition[     11236,        280]
-CellTagsIndexPosition[     11193,        277]
+NotebookDataLength[     11871,        299]
+NotebookOptionsPosition[     10946,        266]
+NotebookOutlinePosition[     11290,        281]
+CellTagsIndexPosition[     11247,        278]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -22,7 +22,7 @@ Notebook[{
 Cell[CellGroupData[{
 Cell[BoxData[{
  RowBox[{
-  RowBox[{"p", " ", "=", " ", "7"}], ";"}], "\[IndentingNewLine]", 
+  RowBox[{"p", " ", "=", " ", "11"}], ";"}], "\[IndentingNewLine]", 
  RowBox[{
   RowBox[{"points", " ", "=", " ", 
    RowBox[{"{", "}"}]}], ";"}], "\[IndentingNewLine]", 
@@ -40,7 +40,7 @@ Cell[BoxData[{
        RowBox[{
         RowBox[{
          SuperscriptBox["x", "3"], " ", "+", " ", 
-         RowBox[{"3", "*", "x"}], " ", "+", "1"}], ",", "p"}], "]"}]}], ";", 
+         RowBox[{"4", "*", "x"}], " ", "+", "3"}], ",", "p"}], "]"}]}], ";", 
      "\[IndentingNewLine]", 
      RowBox[{"Print", "[", 
       RowBox[{
@@ -80,7 +80,8 @@ Cell[BoxData[{
  CellChangeTimes->{{3.69036291058442*^9, 3.6903630218950157`*^9}, {
   3.690363056001676*^9, 3.6903631176548843`*^9}, {3.690363157174754*^9, 
   3.690363182794999*^9}, {3.6903632236876707`*^9, 3.690363278438167*^9}, {
-  3.6903633377750716`*^9, 3.6903634105042996`*^9}}],
+  3.6903633377750716`*^9, 3.6903634105042996`*^9}, {3.6908886448953705`*^9, 
+  3.6908886765634265`*^9}}],
 
 Cell[CellGroupData[{
 
@@ -280,24 +281,24 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[579, 22, 2324, 60, 262, "Input"],
+Cell[579, 22, 2378, 61, 262, "Input"],
 Cell[CellGroupData[{
-Cell[2928, 86, 580, 11, 23, "Print"],
-Cell[3511, 99, 580, 11, 23, "Print"],
-Cell[4094, 112, 580, 11, 23, "Print"],
-Cell[4677, 125, 580, 11, 23, "Print"],
-Cell[5260, 138, 580, 11, 23, "Print"],
-Cell[5843, 151, 580, 11, 23, "Print"],
-Cell[6426, 164, 580, 11, 23, "Print"],
-Cell[7009, 177, 303, 4, 23, "Print"],
-Cell[7315, 183, 458, 9, 23, "Print"],
-Cell[7776, 194, 458, 9, 23, "Print"],
-Cell[8237, 205, 458, 9, 23, "Print"],
-Cell[8698, 216, 438, 8, 23, "Print"],
-Cell[9139, 226, 438, 8, 23, "Print"],
-Cell[9580, 236, 438, 8, 23, "Print"],
-Cell[10021, 246, 438, 8, 23, "Print"],
-Cell[10462, 256, 402, 5, 23, "Print"]
+Cell[2982, 87, 580, 11, 23, "Print"],
+Cell[3565, 100, 580, 11, 23, "Print"],
+Cell[4148, 113, 580, 11, 23, "Print"],
+Cell[4731, 126, 580, 11, 23, "Print"],
+Cell[5314, 139, 580, 11, 23, "Print"],
+Cell[5897, 152, 580, 11, 23, "Print"],
+Cell[6480, 165, 580, 11, 23, "Print"],
+Cell[7063, 178, 303, 4, 23, "Print"],
+Cell[7369, 184, 458, 9, 23, "Print"],
+Cell[7830, 195, 458, 9, 23, "Print"],
+Cell[8291, 206, 458, 9, 23, "Print"],
+Cell[8752, 217, 438, 8, 23, "Print"],
+Cell[9193, 227, 438, 8, 23, "Print"],
+Cell[9634, 237, 438, 8, 23, "Print"],
+Cell[10075, 247, 438, 8, 23, "Print"],
+Cell[10516, 257, 402, 5, 23, "Print"]
 }, Open  ]]
 }, Open  ]]
 }
@@ -305,4 +306,3 @@ Cell[10462, 256, 402, 5, 23, "Print"]
 *)
 
 (* End of internal cache information *)
-
